@@ -1,3 +1,3 @@
 # karthik
-This is my first repository.
+This is my first Git Repository.
 Author - Karthik-Mogili
